@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Software/Selenium/selenium-server-standalone-3.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Software/Selenium/selenium-java-3-2/client-combined-3.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/Software/Selenium/selenium-java-3-2/client-combined-3.6.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng_6.12.0.r201709030044.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng.eclipse.maven_6.12.0.201709050550.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng.eclipse_6.12.0.201709050550.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng_6.14.3.r201802240500.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng.eclipse.maven_6.14.0.201802161500.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng.eclipse_6.14.0.201802161500.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/Software/TestNG/org.testng.source_6.14.3.r201802240500.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents/Software/Apache POI/poi-3.17" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/lib/commons-codec-1.10.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/lib/commons-logging-1.2.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/lib/junit-4.12.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/lib/log4j-1.2.17.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/lib/commons-collections4-4.1.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/ooxml-lib/curvesapi-1.04.jar!/" />
+          <root url="jar://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar!/" />
+          <root url="file://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/ooxml-lib" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/docs/apidocs" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Documents/Software/Apache POI/poi-3.17" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Documents/Software/Apache POI/poi-3.17/ooxml-lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
